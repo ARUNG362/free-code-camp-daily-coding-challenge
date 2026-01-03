@@ -10,3 +10,6 @@ Test 2:
 
 Test 3:
     nth_fibonacci(15) should return 377.
+
+Refer:
+    https://www.freecodecamp.org/learn/daily-coding-challenge/2026-01-02
